@@ -11,3 +11,5 @@ test:
       python main.py --phase=test
 
 On your own computer, you may need to modify the data path
+
+If you find any problems, please let me know，we will appreciate it！
