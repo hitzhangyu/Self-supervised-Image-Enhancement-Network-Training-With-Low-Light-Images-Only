@@ -6,4 +6,8 @@ Thanks to weichen: https://github.com/weichen582/RetinexNet ，the code refers t
 downloaded from their web page
 
 train：
-python main
+      python main.py
+test:
+      python main.py --phase=test
+
+On your own computer, you may need to modify the data path
