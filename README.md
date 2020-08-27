@@ -16,3 +16,5 @@ test:
 On your own computer, you may need to modify the data path
 
 If you find any problems, please let me know，we will appreciate it！
+
+A new version with denoise is about to be completed！[V2](https://github.com/hitzhangyu/V2-Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only)
